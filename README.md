@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-potatoeyo
-- 👀 I’m interested in creating video games using open-source game engines
-- 🌱 I’m currently learning how to use Blender Game Engine, UPBGE (basically Blender Game Engine but brought to work with new versions), and TurboWarp (basically a better version of Scratch)
+- 👀 I’m interested in creating video games using open-source game engines. Mainly UPBGE and Turbowarp. I no longer use Unity because of their pricing updates, so I'm gonna switch to both UPBGE and Godot for 3D.
+- 🌱 I’m currently learning how to use Blender Game Engine, UPBGE (basically Blender Game Engine but brought to work with new versions), Godot Engine (kinda like Unity), and TurboWarp (basically a better version of Scratch)
 
 <!---
 the-potatoeyo/the-potatoeyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
