@@ -12,8 +12,7 @@ video game texture editor/maker, gamer, Rubik's Cube collector, CD collector, an
 
 - I make music on LMMS 1.3 and FL Studio 21 (Fruity Edition)
 - I make animations on Blender (Steam version), used to make 2D animations on Scratch and Krita but now I pretty much make mainly 3D animations on Blender
-- I program games since 2016. Used to program games from 2017-2021 at my very best on Scratch until I eventually lost interest and moved on to making 3D games on Blender. Although I still make projects on Scratch, just not as usually and mainly music players and my own news posts on daily things. I would've wanted to become a Unity developer, but since their new changes have gotten the best of that, I deleted my Unity account and projects completely.
-- account completely and walked back to UPBGE. I am a total noob at text coding, I only know how to tweak Python and HTML/CSS code especially on Tynker.
+- I program games since 2016. Used to program games from 2017-2021 at my very best on Scratch until I eventually lost interest and moved on to making 3D games on Blender. Although I still make projects on Scratch, just not as usually and mainly music players and my own news posts on daily things. I would've wanted to become a Unity developer, but since their new changes have gotten the best of that, I deleted my Unity account and projects completely and walked back to UPBGE. I am a total noob at text coding, I only know how to tweak Python and HTML/CSS code especially on Tynker.
 - I make videos on YouTube since I got my channel and some of my videos there are even older than my channel because I have been storing a few over 2022.
 
 - Scratch - (since January 4, 2017 - have barely been active but still there)
