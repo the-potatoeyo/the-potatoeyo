@@ -15,7 +15,7 @@ video game texture editor/maker, gamer, Rubik's Cube collector, CD collector, an
 - I program games since 2016. Used to program games from 2017-2021 at my very best on Scratch until I eventually lost interest and moved on to making 3D games on Blender. Although I still make projects on Scratch, just not as usually and mainly music players and my own news posts on daily things. I would've wanted to become a Unity developer, but since their new changes have gotten the best of that, I deleted my Unity account and projects completely and walked back to UPBGE. I am a total noob at text coding, I only know how to tweak HTML/CSS code and particularly for LMMS UI themes.
 - I make videos on YouTube since I got my channel and some of my videos there are even older than my channel because I have been storing a few over 2022.
 
-- Scratch - (since January 4, 2017 - have barely been active but still there)
+- Scratch - (since January 4, 2017 - March 2024, I don't use it anymore)
 - https://scratch.mit.edu/users/Lilbud01/
 - Steam - (since June 11, 2020)
 - https://steamcommunity.com/id/Potatoeyo23Steam/
